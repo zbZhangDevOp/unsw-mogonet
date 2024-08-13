@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+torch
+torch_geometric
+shap
+matplotlib
+seaborn
+python-multipart
+app
